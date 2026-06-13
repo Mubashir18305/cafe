@@ -5,6 +5,7 @@
 [![Vite](https://img.shields.io/badge/Vite-5.x-purple.svg)](https://vitejs.dev/)
 [![Supabase](https://img.shields.io/badge/Database-Supabase-brightgreen.svg)](https://supabase.com/)
 
+**🌟 Live Demo:** [https://web1-self-two.vercel.app/](https://web1-self-two.vercel.app/)
 <p align="center">
   <img src="public/hero.png" alt="Cafe Preview" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);" />
 </p>
