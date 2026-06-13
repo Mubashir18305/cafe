@@ -1,6 +1,6 @@
 # Cafe — Where Ideas Brew ☕
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [![React Version](https://img.shields.io/badge/React-18.x-blue.svg)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-5.x-purple.svg)](https://vitejs.dev/)
 [![Supabase](https://img.shields.io/badge/Database-Supabase-brightgreen.svg)](https://supabase.com/)
