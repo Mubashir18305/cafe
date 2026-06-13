@@ -127,6 +127,3 @@ This project is optimized for deployment on Vercel or Netlify.
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
